@@ -1,0 +1,51 @@
+/* Les jours en gras de 20px */
+#jour{
+    padding: 300px;
+    font-weight: bold;
+    font-size: 20px;
+}
+/* Les jours en italqie de 20px */
+#heure1,#heure2,#heure3,#heure4,#heure5,#heure6,#heure7,#heure8,#heure8,#heure9,#heure10{
+    font-style: italic;
+    font-size: 20px;
+}
+/* Les matieres preferer en coleur blue marine*/
+#yamo,#yamo2,#yamo3,#yamo4,#yamo5,#yamo6,#yamo7,#yamo8,#yamo9,#yamo10,#yamo11,#yamo12,#yamo13{
+    background-color: #002a77;
+}
+/* Les matieres utilisant la police Montserrat */
+.matiere {
+    font-family: 'Montserrat', sans-serif;
+}
+/* Les jours utilisant la police Poppins */
+#jour{
+    font-family: 'Poppins', sans-serif;
+}
+/* Touche personnelle*/
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Montserrat', sans-serif;
+}
+table{
+    /*Touches elementaires */
+    border-collapse: collapse;
+    margin-left: auto;  
+    margin-right: auto;
+    text-align: center;
+    /*Touches non-elementaires */
+    border-style: solid;
+    border-color: #000000;
+}
+/* Ajustements des lignes colspaner */
+#pause,#pause2{
+    text-align: center;
+    font-weight: bold;
+}
+/*Ajustement des valeurs des lignes de bore */
+td,tr{
+    padding: 10px;      
+    font-size: 22px;
+    border-style: solid;
+    border-width: 6px;
+}
