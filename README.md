@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <hmtl lang="en">
 <head>
-   <title>  Questions </title>
+   
 </head>
 
 <body>
@@ -21,24 +21,24 @@
     <ol>
        <li> Définir SEO , moteur de recherche , site web , Balises sémantiques , CSS , sélecteur <li>
         <b> Reponse:</b> </br>
-        SEO:  défini l’ensemble des techniques mises en œuvre pour améliorer la position d’un site web sur les pages de résultats des moteurs de recherche (SERP). <br>
-        moteur de recherche : un outil qui permet de rechercher sur le Web (mais aussi sur un ordinateur personnel) des ressources, des contenus, des documents etc., à partir de mots clés. <br>
-        site web : Un site web est l’ensemble des pages web et des ressources inter reliées entre elles par des liens hypertextes <br>
-        Balises sémantiques : Une balise sémantique est une balise HTML qui apporte une indication sur le contenu d'une page web. <br>
-        CSS: Le CSS ou Cascading Style Sheets, est un langage de feuille de style qui permet de contrôler l'apparence des éléments HTML. <br>
-        selecteur: Un sélecteur est une expression qui indique au navigateur à quelle entité HTML s'applique la règle CSS correspondante. 
+        <i>SEO:</i>  défini l’ensemble des techniques mises en œuvre pour améliorer la position d’un site web sur les pages de résultats des moteurs de recherche (SERP). <br>
+        <i>moteur de recherche </i>: un outil qui permet de rechercher sur le Web (mais aussi sur un ordinateur personnel) des ressources, des contenus, des documents etc., à partir de mots clés. <br>
+        <i>site web </i>: Un site web est l’ensemble des pages web et des ressources inter reliées entre elles par des liens hypertextes <br>
+        <i>Balises sémantiques </i>: Une balise sémantique est une balise HTML qui apporte une indication sur le contenu d'une page web. <br>
+        <i>CSS</i>: Le CSS ou Cascading Style Sheets, est un langage de feuille de style qui permet de contrôler l'apparence des éléments HTML. <br>
+        <i>selecteur</i>: Un sélecteur est une expression qui indique au navigateur à quelle entité HTML s'applique la règle CSS correspondante. 
         <li> Citer quatres balises sémantiques et donner le rôle de chacun </li>
         <b> Reponse:</b> </br>
         <ul>
-            <li> header : definir l'en-tête de la page web </li>
-            <li> footer : definir le pied de page de la page web</li>
-            <li> nav : regroupe tous les principaux liens de navigation de la page web. </li>
-            <li>  section : sert à regrouper des contenus en fonction de leur thématique. </li>
-            <li> aside : IL aide a contenir des informations complémentaires au document que l'on visualise qui sont generalement place sur le côté  </li>
+            <li> <i>header </i>: definir l'en-tête de la page web </li>
+            <li> <i>footer :</i> definir le pied de page de la page web</li>
+            <li> <i>nav : </i>regroupe tous les principaux liens de navigation de la page web. </li>
+            <li> <i> section :</i> sert à regrouper des contenus en fonction de leur thématique. </li>
+            <li> <i>aside :</i> IL aide a contenir des informations complémentaires au document que l'on visualise qui sont generalement place sur le côté  </li>
         </ul>
         <li> Quels sont les types de sélecteurs que vous connaissez en CSS </li>
         <b> Reponse:</b> </br>
-         Je connais 3 type de selecteurs en CSS qui sont :
+        3 type de selecteurs en CSS á ma connaissance qui sont :
         <ul>
             <li> Les sélecteurs d'élément </li>
             <li> Les sélecteurs de classe </li>
@@ -46,35 +46,24 @@
         </ul>
         <li> Quel est l’unité de base utilisée pour les mesure de dimensions numériques </li> 
         <b> Reponse:</b> </br>
-        l'unite de mesure de base est le Bit.
+        l'unite de mesure de base est le <i>Bit</i>.
         <li> Décomposer les code hexadécimal suivant et dites leurs couleurs exacte : #FF00FF ,00FF00, FF4500 </li>
         <b> Reponse:</b> </br>
         <ul>
-            <li><b> #FF00FF :</b> magenta.<br> La valeur hexadécimale FF représente la composante de couleur rouge maximale<br>la valeur 00 représente l'absence de composante verte et <br>la valeur FF représente la composante de couleur bleue maximale.</li>
-            <li><b> #00FF00 : vert </b></li>
-            <li><b> #FF4500 :</b> orange. <br>La valeur hexadécimale FF représente la composante de couleur rouge maximale <br>la valeur 45 représente une composante de couleur verte moyenne et <br>la valeur 00 représente l'absence de composante bleue.</li>
+            <li><i> #FF00FF :</i> magenta.<br> La valeur hexadécimale FF représente la composante de couleur rouge maximale<br>la valeur 00 représente l'absence de composante verte et <br>la valeur FF représente la composante de couleur bleue maximale.</li>
+            <li><i> #00FF00 : vert </i></li>
+            <li><i> #FF4500 :</i> orange. <br>La valeur hexadécimale FF représente la composante de couleur rouge maximale <br>la valeur 45 représente une composante de couleur verte moyenne et <br>la valeur 00 représente l'absence de composante bleue.</li>
         </ul>
        <li> Definir la box model et tracer un croquis </li>
        <b> Reponse:</b> </br>
-       box model : C'est un conteneur qui regroupe plusieurs propriétés, y compris les bordures, les marges, le rembourrage (padding) et le contenu lui-même. <br>
+       <i>box model </i>: C'est un conteneur qui regroupe plusieurs propriétés, y compris les bordures, les marges, le rembourrage (padding) et le contenu lui-même. <br>
        <b> croquis: </b> <br>
-            +--------------------------------------------------+
-            |                      Contenu                     |
-            |                                                  |
-            |                                                  |
-            +--------------------------------------------------+
-            |                    Rembourrage                   |
-            |                                                  |
-            |                                                  |                                                  
-            +--------------------------------------------------+
-            |                      Bordure                     |
-            |                                                  |                                             
-            |                                                  |
-            +--------------------------------------------------+
-            |                      Marge                       |
-            |                                                  |
-            |                                                  |                                                 
-            +--------------------------------------------------+
+             |------------   
+             |Contenu     |
+             |Rembourrage |
+             |Bordure     |
+             |Marge       |
+             --------------
     </ol>  
 </body>
 
